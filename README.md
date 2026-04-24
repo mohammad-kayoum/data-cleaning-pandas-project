@@ -73,7 +73,7 @@ After cleaning:
 * Dates are standardized for time-based analysis
 
 
-![Alt Text]([path/to/image.png](https://github.com/mohammad-kayoum/data-cleaning-pandas-project/blob/3c202433f50c517602742b36668c395af35394af/Pandas2.png))
+![pandas1](pandas2.png)
 ---
 
 ## 🚀 Tools Used
