@@ -73,7 +73,7 @@ After cleaning:
 * Dates are standardized for time-based analysis
 
 
-![pandas1](pandas2.png)
+![Alt Text](path/to/image.png)
 ---
 
 ## 🚀 Tools Used
