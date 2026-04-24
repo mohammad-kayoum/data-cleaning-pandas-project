@@ -9,7 +9,7 @@ The dataset contained multiple real-world issues such as missing values, inconsi
 
 The goal was to transform raw, messy data into a clean and structured dataset ready for analysis.
 
-![pandas1](pandas1.png)
+![pandas1](Pandas1.png)
 ---
 
 ##  Dataset Issues
